@@ -39,8 +39,10 @@ Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Krowx](h
 
 # Would you like to support me?
 * Join on my Discord:
+> 
 [![Contact me on DC](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=6A0DAD)](https://discord.com/invite/crimelifecl/) 
 
 # Need any help? - Contact me!
 * Here you go:
+> 
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=6A0DAD)](https://discord.com/users/1103038390481465434)  
