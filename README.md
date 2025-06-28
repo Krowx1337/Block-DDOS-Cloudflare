@@ -21,7 +21,6 @@ Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Krowx](h
 > * Blocking queries with XSS vulnerabilities
 > * Block popular PHP vulnerabilities
 > 
-> ...
 
 # 3. Method Fix (Optional) - Action Block [(open)](Method%20Fix%20-%20Block.txt)
 > * Blocks unusual attack methods that we have detected
